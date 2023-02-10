@@ -21,7 +21,7 @@
     ~/.dotfiles/install.sh
     ```
 
-5. Restart your computer to finalize the process
+5. Restart the computer to finalize the process
 
 ## Inspirations
 

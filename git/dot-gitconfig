@@ -1,0 +1,11 @@
+[user]
+  name = Nathan Boiron
+  email = github@mopolo.net
+[init]
+	defaultBranch = master
+[color]
+  ui = auto
+[core]
+	excludesfile = ~/.dotfiles/git/dot-gitignore
+[push]
+	autoSetupRemote = true

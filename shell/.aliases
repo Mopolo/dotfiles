@@ -1,0 +1,12 @@
+# General
+alias l="ls -al"
+alias ll="ls -l"
+alias ..="cd .."
+
+# PHP
+art="php artisan"
+sf="php bin/console"
+
+# Shortcuts
+alias reloadshell="source $HOME/.zshrc"
+alias reloaddns="dscacheutil -flushcache && sudo killall -HUP mDNSResponder"

@@ -1,0 +1,183 @@
+{
+  "active_profile": 0,
+  "active_modpack": 0,
+  "profiles": [
+    {
+      "name": "fabric_1_19",
+      "output_dir": "/Users/mopolo/Library/Application Support/minecraft/profiles/fabric_1_19/mods",
+      "game_version": "1.19.3",
+      "mod_loader": "Fabric",
+      "mods": [
+        {
+          "name": "AppleSkin",
+          "identifier": {
+            "ModrinthProject": "EsAfCjCV"
+          }
+        },
+        {
+          "name": "Better Third Person",
+          "identifier": {
+            "CurseForgeProject": 435044
+          }
+        },
+        {
+          "name": "Chat Heads",
+          "identifier": {
+            "ModrinthProject": "Wb5oqrBJ"
+          }
+        },
+        {
+          "name": "Cloth Config API",
+          "identifier": {
+            "ModrinthProject": "9s6osm5g"
+          }
+        },
+        {
+          "name": "Dynamic Crosshair",
+          "identifier": {
+            "ModrinthProject": "ZcR9weSm"
+          }
+        },
+        {
+          "name": "Dynamic Crosshair Compat",
+          "identifier": {
+            "ModrinthProject": "EwPIWPJ9"
+          }
+        },
+        {
+          "name": "Dynamic FPS",
+          "identifier": {
+            "ModrinthProject": "LQ3K71Q1"
+          }
+        },
+        {
+          "name": "EntityCulling",
+          "identifier": {
+            "ModrinthProject": "NNAgCjsB"
+          }
+        },
+        {
+          "name": "Fabric API",
+          "identifier": {
+            "ModrinthProject": "P7dR8mSH"
+          }
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "identifier": {
+            "ModrinthProject": "Ha28R6CL"
+          }
+        },
+        {
+          "name": "FerriteCore",
+          "identifier": {
+            "ModrinthProject": "uXXizFIs"
+          }
+        },
+        {
+          "name": "Freecam (Modrinth Edition)",
+          "identifier": {
+            "ModrinthProject": "XeEZ3fK2"
+          }
+        },
+        {
+          "name": "Idwtialsimmoedm",
+          "identifier": {
+            "ModrinthProject": "ad89WlWh"
+          }
+        },
+        {
+          "name": "Inventory Profiles Next",
+          "identifier": {
+            "ModrinthProject": "O7RBXm3n"
+          }
+        },
+        {
+          "name": "Iris Shaders",
+          "identifier": {
+            "ModrinthProject": "YL57xq9U"
+          }
+        },
+        {
+          "name": "Jade 🔍",
+          "identifier": {
+            "ModrinthProject": "nvQzSEkH"
+          }
+        },
+        {
+          "name": "LazyDFU",
+          "identifier": {
+            "ModrinthProject": "hvFnDODi"
+          }
+        },
+        {
+          "name": "libIPN",
+          "identifier": {
+            "ModrinthProject": "onSQdWhM"
+          }
+        },
+        {
+          "name": "Lithium",
+          "identifier": {
+            "ModrinthProject": "gvQqBUqZ"
+          }
+        },
+        {
+          "name": "Memory Leak Fix",
+          "identifier": {
+            "ModrinthProject": "NRjRiSSD"
+          }
+        },
+        {
+          "name": "Mod Menu",
+          "identifier": {
+            "ModrinthProject": "mOgUt4GM"
+          }
+        },
+        {
+          "name": "ShulkerBoxTooltip",
+          "identifier": {
+            "ModrinthProject": "2M01OLQq"
+          }
+        },
+        {
+          "name": "Smooth Boot (Fabric)",
+          "identifier": {
+            "ModrinthProject": "FWumhS4T"
+          }
+        },
+        {
+          "name": "Sodium",
+          "identifier": {
+            "ModrinthProject": "AANobbMI"
+          }
+        },
+        {
+          "name": "What's That Slot?",
+          "identifier": {
+            "ModrinthProject": "7b5VoITI"
+          }
+        },
+        {
+          "name": "Xaero's Minimap",
+          "identifier": {
+            "CurseForgeProject": 263420
+          }
+        },
+        {
+          "name": "Xaero's World Map",
+          "identifier": {
+            "CurseForgeProject": 317780
+          }
+        },
+        {
+          "name": "Your Reputation",
+          "identifier": {
+            "ModrinthProject": "MrLyhFlg"
+          }
+        }
+      ]
+    }
+  ],
+  "modpacks": []
+}

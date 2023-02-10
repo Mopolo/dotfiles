@@ -83,6 +83,7 @@ echo -e
 echo "Some manual steps remaining:"
 echo -e
 echo "### Java ###"
+echo "Tutorial: https://blog.bigoodyssey.com/how-to-manage-multiple-java-version-in-macos-e5421345f6d0"
 echo -e
 echo "Run: /usr/libexec/java_home -V"
 echo "Run: jenv add /path/to/jdk"

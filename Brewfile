@@ -46,6 +46,7 @@ cask 'steam'
 cask 'todoist'
 cask 'visual-studio-code'
 cask 'whatsapp'
+cask 'vlc'
 
 # Fonts
 cask 'font-fira-code-nerd-font'

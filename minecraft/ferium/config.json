@@ -179,5 +179,14 @@
       ]
     }
   ],
-  "modpacks": []
+  "modpacks": [
+    {
+      "name": "Medieval MC [FABRIC] - MMC1",
+      "output_dir": "/Users/mopolo/Library/Application Support/minecraft/profiles/medieval_mc/mods",
+      "install_overrides": true,
+      "identifier": {
+        "CurseForgeModpack": 461725
+      }
+    }
+  ]
 }

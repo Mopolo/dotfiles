@@ -24,6 +24,9 @@ brew 'fabric-installer'
 brew 'ferium'
 cask 'minecraft'
 
+# Other
+brew 'gh' # GitHub CLI
+
 # Apps
 cask '1password'
 cask 'airbuddy'

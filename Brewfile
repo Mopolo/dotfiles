@@ -30,6 +30,7 @@ cask 'minecraft'
 
 # Other
 brew 'gh' # GitHub CLI
+brew 'jq'
 
 # Apps
 cask '1password'

@@ -19,6 +19,10 @@ brew 'jenv'
 brew 'java'
 brew 'openjdk@17'
 
+# Ionic
+brew 'ios-deploy'
+brew 'cocoapods'
+
 # Minecraft
 brew 'fabric-installer'
 brew 'ferium'

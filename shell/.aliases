@@ -4,8 +4,14 @@ alias ll="ls -l"
 alias ..="cd .."
 
 # PHP
-alias art="php artisan"
+alias phpstan='docker run -v $PWD:/app --rm ghcr.io/phpstan/phpstan'
+
+# Symfony
 alias sf="php bin/console"
+
+# Laravel
+alias art="php artisan"
+alias sail='[ -f sail ] && sh sail || sh vendor/bin/sail'
 
 # Shortcuts
 alias reloadshell="source $HOME/.zshrc"

@@ -6,6 +6,9 @@ tap 'nicoverbruggen/homebrew-cask' # phpmon
 # Shell
 brew 'starship'
 
+# Dev
+brew 'colima'
+
 # PHP
 brew 'php@8.2'
 brew 'php@8.1'

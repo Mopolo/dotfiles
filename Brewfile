@@ -29,13 +29,14 @@ brew 'ferium'
 cask 'minecraft'
 
 # Other
-brew 'gh' # GitHub CLI
+brew 'gh'
 brew 'jq'
 
 # Apps
 cask '1password'
 cask 'airbuddy'
 cask 'alfred'
+cask 'raycast'
 cask 'daisydisk'
 cask 'discord'
 cask 'docker'

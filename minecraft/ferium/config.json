@@ -1,5 +1,5 @@
 {
-  "active_profile": 0,
+  "active_profile": 1,
   "active_modpack": 0,
   "profiles": [
     {
@@ -174,6 +174,386 @@
           "name": "Your Reputation",
           "identifier": {
             "ModrinthProject": "MrLyhFlg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "forge_1_19",
+      "output_dir": "/Users/mopolo/Library/Application Support/minecraft/profiles/forge_1_19/mods",
+      "game_version": "1.19.2",
+      "mod_loader": "Forge",
+      "mods": [
+        {
+          "name": "Ad Astra",
+          "identifier": {
+            "CurseForgeProject": 635042
+          }
+        },
+        {
+          "name": "Ad Astra!: Giselle Addon",
+          "identifier": {
+            "CurseForgeProject": 714958
+          }
+        },
+        {
+          "name": "AEInfinityBooster",
+          "identifier": {
+            "CurseForgeProject": 559313
+          }
+        },
+        {
+          "name": "AppleSkin",
+          "identifier": {
+            "CurseForgeProject": 248787
+          }
+        },
+        {
+          "name": "Applied Energistics 2",
+          "identifier": {
+            "CurseForgeProject": 223794
+          }
+        },
+        {
+          "name": "Aquaculture 2",
+          "identifier": {
+            "CurseForgeProject": 60028
+          }
+        },
+        {
+          "name": "Balm (Forge Edition)",
+          "identifier": {
+            "CurseForgeProject": 531761
+          }
+        },
+        {
+          "name": "Better Third Person",
+          "identifier": {
+            "CurseForgeProject": 435044
+          }
+        },
+        {
+          "name": "Botarium",
+          "identifier": {
+            "CurseForgeProject": 704113
+          }
+        },
+        {
+          "name": "Chipped",
+          "identifier": {
+            "CurseForgeProject": 456956
+          }
+        },
+        {
+          "name": "Cloth Config API (Fabric/Forge)",
+          "identifier": {
+            "CurseForgeProject": 348521
+          }
+        },
+        {
+          "name": "CoFH Core",
+          "identifier": {
+            "CurseForgeProject": 69162
+          }
+        },
+        {
+          "name": "ConnectedTexturesMod",
+          "identifier": {
+            "CurseForgeProject": 267602
+          }
+        },
+        {
+          "name": "Construction Wand",
+          "identifier": {
+            "CurseForgeProject": 399558
+          }
+        },
+        {
+          "name": "Controlling",
+          "identifier": {
+            "CurseForgeProject": 250398
+          }
+        },
+        {
+          "name": "CorgiLib",
+          "identifier": {
+            "CurseForgeProject": 693313
+          }
+        },
+        {
+          "name": "Curios API (Forge)",
+          "identifier": {
+            "CurseForgeProject": 309927
+          }
+        },
+        {
+          "name": "Decorative Blocks",
+          "identifier": {
+            "CurseForgeProject": 362528
+          }
+        },
+        {
+          "name": "Duckling",
+          "identifier": {
+            "CurseForgeProject": 597248
+          }
+        },
+        {
+          "name": "EnderTanks",
+          "identifier": {
+            "CurseForgeProject": 59613
+          }
+        },
+        {
+          "name": "GeckoLib",
+          "identifier": {
+            "CurseForgeProject": 388172
+          }
+        },
+        {
+          "name": "GraveStone Mod",
+          "identifier": {
+            "CurseForgeProject": 238551
+          }
+        },
+        {
+          "name": "Handcrafted",
+          "identifier": {
+            "CurseForgeProject": 538214
+          }
+        },
+        {
+          "name": "Harvest with ease",
+          "identifier": {
+            "CurseForgeProject": 602171
+          }
+        },
+        {
+          "name": "Industrial Foregoing",
+          "identifier": {
+            "CurseForgeProject": 266515
+          }
+        },
+        {
+          "name": "Inventory Profiles Next",
+          "identifier": {
+            "CurseForgeProject": 495267
+          }
+        },
+        {
+          "name": "Iron Chests",
+          "identifier": {
+            "CurseForgeProject": 228756
+          }
+        },
+        {
+          "name": "Jade 🔍",
+          "identifier": {
+            "CurseForgeProject": 324717
+          }
+        },
+        {
+          "name": "Just Enough Items (JEI)",
+          "identifier": {
+            "CurseForgeProject": 238222
+          }
+        },
+        {
+          "name": "Kotlin for Forge",
+          "identifier": {
+            "CurseForgeProject": 351264
+          }
+        },
+        {
+          "name": "libIPN",
+          "identifier": {
+            "CurseForgeProject": 679177
+          }
+        },
+        {
+          "name": "Macaw's Doors",
+          "identifier": {
+            "CurseForgeProject": 378646
+          }
+        },
+        {
+          "name": "Macaw's Fences and Walls",
+          "identifier": {
+            "CurseForgeProject": 453925
+          }
+        },
+        {
+          "name": "Macaw's Windows",
+          "identifier": {
+            "CurseForgeProject": 363569
+          }
+        },
+        {
+          "name": "Mekanism",
+          "identifier": {
+            "CurseForgeProject": 268560
+          }
+        },
+        {
+          "name": "Mekanism Additions",
+          "identifier": {
+            "CurseForgeProject": 345425
+          }
+        },
+        {
+          "name": "Mekanism Generators",
+          "identifier": {
+            "CurseForgeProject": 268566
+          }
+        },
+        {
+          "name": "Mekanism Tools",
+          "identifier": {
+            "CurseForgeProject": 268567
+          }
+        },
+        {
+          "name": "Moonlight Lib",
+          "identifier": {
+            "CurseForgeProject": 499980
+          }
+        },
+        {
+          "name": "Nature's Compass",
+          "identifier": {
+            "CurseForgeProject": 252848
+          }
+        },
+        {
+          "name": "Oh The Biomes You'll Go",
+          "identifier": {
+            "CurseForgeProject": 247560
+          }
+        },
+        {
+          "name": "Pam's HarvestCraft 2 - Crops",
+          "identifier": {
+            "CurseForgeProject": 361385
+          }
+        },
+        {
+          "name": "Pam's HarvestCraft 2 - Food Core",
+          "identifier": {
+            "CurseForgeProject": 372534
+          }
+        },
+        {
+          "name": "Pam's HarvestCraft 2 - Food Extended",
+          "identifier": {
+            "CurseForgeProject": 402231
+          }
+        },
+        {
+          "name": "Pam's HarvestCraft 2 - Trees",
+          "identifier": {
+            "CurseForgeProject": 365460
+          }
+        },
+        {
+          "name": "Patchouli",
+          "identifier": {
+            "CurseForgeProject": 306770
+          }
+        },
+        {
+          "name": "Resourceful Config",
+          "identifier": {
+            "CurseForgeProject": 714059
+          }
+        },
+        {
+          "name": "Resourceful Lib",
+          "identifier": {
+            "CurseForgeProject": 570073
+          }
+        },
+        {
+          "name": "ShetiPhianCore",
+          "identifier": {
+            "CurseForgeProject": 71738
+          }
+        },
+        {
+          "name": "ShulkerBoxTooltip [Fabric/Forge]",
+          "identifier": {
+            "CurseForgeProject": 315811
+          }
+        },
+        {
+          "name": "Sophisticated Backpacks",
+          "identifier": {
+            "CurseForgeProject": 422301
+          }
+        },
+        {
+          "name": "Sophisticated Core",
+          "identifier": {
+            "CurseForgeProject": 618298
+          }
+        },
+        {
+          "name": "Storage Drawers",
+          "identifier": {
+            "CurseForgeProject": 223852
+          }
+        },
+        {
+          "name": "Supplementaries",
+          "identifier": {
+            "CurseForgeProject": 412082
+          }
+        },
+        {
+          "name": "TerraBlender (Forge)",
+          "identifier": {
+            "CurseForgeProject": 563928
+          }
+        },
+        {
+          "name": "Thermal Foundation",
+          "identifier": {
+            "CurseForgeProject": 222880
+          }
+        },
+        {
+          "name": "Titanium",
+          "identifier": {
+            "CurseForgeProject": 287342
+          }
+        },
+        {
+          "name": "Torchmaster",
+          "identifier": {
+            "CurseForgeProject": 254268
+          }
+        },
+        {
+          "name": "Waystones",
+          "identifier": {
+            "CurseForgeProject": 245755
+          }
+        },
+        {
+          "name": "When Dungeons Arise - Forge!",
+          "identifier": {
+            "CurseForgeProject": 442508
+          }
+        },
+        {
+          "name": "Xaero's Minimap",
+          "identifier": {
+            "CurseForgeProject": 263420
+          }
+        },
+        {
+          "name": "Xaero's World Map",
+          "identifier": {
+            "CurseForgeProject": 317780
           }
         }
       ]

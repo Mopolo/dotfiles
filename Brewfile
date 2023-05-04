@@ -8,6 +8,7 @@ brew 'starship'
 
 # Dev
 brew 'colima'
+brew 'go'
 
 # PHP
 brew 'php@8.2'

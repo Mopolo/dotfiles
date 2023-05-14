@@ -61,6 +61,7 @@ cask 'todoist'
 cask 'visual-studio-code'
 cask 'whatsapp'
 cask 'vlc'
+cask 'telegram'
 
 # Fonts
 cask 'font-fira-code-nerd-font'

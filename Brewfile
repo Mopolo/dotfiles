@@ -31,6 +31,7 @@ brew 'cocoapods'
 brew 'fabric-installer'
 brew 'ferium'
 cask 'minecraft'
+cask 'prismlauncher'
 
 # Other
 brew 'gh'

@@ -36,6 +36,7 @@ cask 'prismlauncher'
 # Other
 brew 'gh'
 brew 'jq'
+brew 'mdcat'
 
 # Apps
 cask '1password'

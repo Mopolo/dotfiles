@@ -64,6 +64,7 @@ cask 'visual-studio-code'
 cask 'whatsapp'
 cask 'vlc'
 cask 'telegram'
+cask 'insomnia'
 
 # Fonts
 cask 'font-fira-code-nerd-font'

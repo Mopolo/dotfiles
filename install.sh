@@ -90,3 +90,6 @@ echo "Run: jenv add /path/to/jdk"
 echo "Run: jenv versions"
 echo "Choose a default version with: jenv global {version}"
 echo -e
+echo "## Mac App Store apps ##"
+echo " - https://welovelights.app"
+echo -e

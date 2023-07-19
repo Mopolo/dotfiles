@@ -11,21 +11,21 @@ brew 'colima'
 brew 'go'
 
 # PHP
-brew 'php@8.2'
-brew 'php@8.1'
 brew 'composer'
 brew 'gpg'
 brew 'imagemagick'
+brew 'php@8.1'
+brew 'php@8.2'
 cask 'phpmon'
 
 # Java
-brew 'jenv'
 brew 'java'
+brew 'jenv'
 brew 'openjdk@17'
 
 # Ionic
-brew 'ios-deploy'
 brew 'cocoapods'
+brew 'ios-deploy'
 
 # Minecraft
 brew 'fabric-installer'
@@ -34,38 +34,38 @@ cask 'minecraft'
 cask 'prismlauncher'
 
 # Other
+brew 'ffmpeg'
 brew 'gh'
 brew 'jq'
-brew 'ffmpeg'
 brew 'mdcat'
 
 # Apps
 cask '1password'
 cask 'airbuddy'
 cask 'alfred'
-cask 'raycast'
 cask 'daisydisk'
 cask 'discord'
 cask 'docker'
 cask 'dropbox'
 cask 'firefox'
 cask 'google-chrome'
+cask 'insomnia'
 cask 'iterm2'
 cask 'jetbrains-toolbox'
 cask 'keka'
 cask 'obsidian'
 cask 'ray'
+cask 'raycast'
 cask 'rectangle'
 cask 'sequel-ace'
 cask 'slack'
 cask 'spotify'
 cask 'steam'
+cask 'telegram'
 cask 'todoist'
 cask 'visual-studio-code'
-cask 'whatsapp'
 cask 'vlc'
-cask 'telegram'
-cask 'insomnia'
+cask 'whatsapp'
 
 # Fonts
 cask 'font-fira-code-nerd-font'

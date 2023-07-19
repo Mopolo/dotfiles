@@ -36,6 +36,7 @@ cask 'prismlauncher'
 # Other
 brew 'gh'
 brew 'jq'
+brew 'ffmpeg'
 brew 'mdcat'
 
 # Apps

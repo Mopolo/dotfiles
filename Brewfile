@@ -17,6 +17,7 @@ brew 'imagemagick'
 brew 'php@8.1'
 brew 'php@8.2'
 cask 'phpmon'
+cask 'herd'
 
 # Java
 brew 'java'
@@ -66,6 +67,7 @@ cask 'todoist'
 cask 'visual-studio-code'
 cask 'vlc'
 cask 'whatsapp'
+cask 'yacreader'
 
 # Fonts
 cask 'font-fira-code-nerd-font'

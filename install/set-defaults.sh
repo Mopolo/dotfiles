@@ -118,6 +118,13 @@ defaults write com.apple.ActivityMonitor SortColumn -string "CPUUsage"
 defaults write com.apple.ActivityMonitor SortDirection -int 0
 
 ###############################################################################
+# Others                                                                      #
+###############################################################################
+
+# Install Rosetta https://support.apple.com/fr-fr/HT211861
+sudo softwareupdate --install-rosetta --agree-to-license
+
+###############################################################################
 # Kill affected applications                                                  #
 ###############################################################################
 

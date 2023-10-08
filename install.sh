@@ -49,6 +49,9 @@ mysql -u root -e "ALTER USER root@localhost IDENTIFIED WITH mysql_native_passwor
 # Setup PHP
 bash "$HOME"/.dotfiles/install/php.sh
 
+# Setup Go
+bash "$HOME"/.dotfiles/install/go.sh
+
 # Setup Java
 jenv enable-plugin export
 jenv enable-plugin maven

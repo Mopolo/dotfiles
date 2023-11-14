@@ -28,3 +28,6 @@ export GREP_OPTIONS="--color=auto"
 
 # Do not auto update brew
 export HOMEBREW_NO_AUTO_UPDATE=1
+
+# Disable Next.js telemetry: https://nextjs.org/telemetry
+export NEXT_TELEMETRY_DISABLED=1

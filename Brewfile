@@ -18,6 +18,7 @@ brew 'php@8.1'
 brew 'php@8.2'
 cask 'phpmon'
 cask 'herd'
+cask 'symfony-cli/tap/symfony-cli'
 
 # Java
 brew 'java'

@@ -5,6 +5,7 @@ tap 'nicoverbruggen/homebrew-cask' # phpmon
 
 # Shell
 brew 'starship'
+brew 'eza'
 
 # Dev
 brew 'colima'

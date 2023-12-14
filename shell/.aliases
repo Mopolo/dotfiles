@@ -1,5 +1,5 @@
 # General
-alias l="ls -al"
+alias l="eza -la --time-style=iso"
 alias ll="ls -l"
 alias ..="cd .."
 

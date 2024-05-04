@@ -90,4 +90,5 @@ echo "Choose a default version with: jenv global {version}"
 echo -e
 echo "## Mac App Store apps ##"
 echo " - https://welovelights.app"
+echo " - https://apps.apple.com/us/app/system-color-picker/id1545870783"
 echo -e

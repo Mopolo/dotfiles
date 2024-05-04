@@ -12,6 +12,8 @@ alias sf="php bin/console"
 # Laravel
 alias art="php artisan"
 alias sail='[ -f sail ] && sh sail || sh vendor/bin/sail'
+alias sart="sail artisan"
+alias scomposer="sail composer"
 
 # Shortcuts
 alias reloadshell="source $HOME/.zshrc"

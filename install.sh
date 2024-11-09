@@ -91,4 +91,5 @@ echo -e
 echo "## Mac App Store apps ##"
 echo " - https://welovelights.app"
 echo " - https://apps.apple.com/us/app/system-color-picker/id1545870783"
+echo " - https://apps.apple.com/fr/app/posture-pal-improve-alert/id1590316152"
 echo -e

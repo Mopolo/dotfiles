@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# Check if a repository URL is provided
+if [ -z "$1" ]; then
+  echo "Usage: git get <repository-url>"
+  exit 1
+fi
+
+# Extract the repository URL
+repo_url="$1"
+
+# Extract the owner and repository name
+owner=$(basename $(dirname "$repo_url"))
+repo_name=$(basename -s .git "$repo_url")
+
+# Create a directory for the owner if it doesn't exist
+mkdir -p "$owner"
+
+# Clone the repository into the owner directory
+git clone "$repo_url" "$owner/$repo_name"

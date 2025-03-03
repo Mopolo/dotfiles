@@ -8,6 +8,8 @@ export PATH="$HOME/.jenv/bin:$PATH"
 export PATH="$HOME/.composer/vendor/bin:$PATH"
 export PATH="$HOME/Library/Python/3.9/bin:$PATH"
 export PATH="$HOME/go/bin:$PATH"
+export PATH="$HOME/.dotfiles/bin:$PATH"
+export PATH="$HOME/.local/bin:$PATH"
 
 # Larger bash history (allow 32³ entries; default is 500)
 export HISTSIZE=32768

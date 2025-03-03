@@ -3,12 +3,14 @@
 echo "Cloning repositories..."
 
 CODE=$HOME/Code
-SITES=$HOME/Sites
+CODE_GH="$CODE/github.com"
 
 mkdir "$CODE"
-mkdir "$SITES"
+mkdir "$CODE_GH"
 
 # Personal
-git clone git@github.com:Mopolo/mopolo.github.io.git "$SITES"/portfolio
+cd "$CODE_GH" && clone git@github.com:Mopolo/mopolo.github.io
 
-cd "$SITES" && valet park
+# AFUP
+cd "$CODE_GH" && clone git@github.com:afup/planete
+cd "$CODE_GH" && clone git@github.com:Mopolo/afup-web

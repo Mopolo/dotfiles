@@ -8,5 +8,22 @@
 	autocrlf = input
 [push]
 	autoSetupRemote = true
+	default = simple
+	followTags = true
 [include]
     path = ~/.dotfiles/overrides/dot-gitconfig-override
+[branch]
+	sort = -committerdate
+[tag]
+	sort = version:refname
+[diff]
+	algorithm = histogram
+	colorMoved = plain
+	mnemonicPrefix = true
+	renames = true
+[fetch]
+	pruneTags = true
+[commit]
+	verbose = true
+[pull]
+	rebase = true
